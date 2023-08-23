@@ -1,5 +1,4 @@
 # tomaschku
 
 What's this?
-  - Idk
-  - Idc
+  - A test
